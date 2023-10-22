@@ -18,6 +18,8 @@ From `README <https://github.com/VipassanaTech/tipitaka-xml/blob/main/README.md>
 
     1. Two Thai characters need to be modified to have little subscript additions removed to make it look the usual way that the character looks in Thai language.
 
+- `Myanmar <mymr/>`_
+
 **See also**
 
 - https://github.com/siongui/data
