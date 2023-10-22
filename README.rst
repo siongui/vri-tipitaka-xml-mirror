@@ -19,6 +19,11 @@ From `README <https://github.com/VipassanaTech/tipitaka-xml/blob/main/README.md>
     1. Two Thai characters need to be modified to have little subscript additions removed to make it look the usual way that the character looks in Thai language.
 
 - `Myanmar <mymr/>`_
+- `Sinhala <sinh/>`_: `Pending issues <https://tipitaka.org/known-issues/sinhala.pdf>`__
+
+    Known issues with Sinhala font
+
+    1. The unicode font used -Kaputaunicode - has some limitations, and does not render some characters properly. Please check the word in the Roman script version in case of confusion.
 
 **See also**
 
