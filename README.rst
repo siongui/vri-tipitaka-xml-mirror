@@ -12,6 +12,11 @@ From `README <https://github.com/VipassanaTech/tipitaka-xml/blob/main/README.md>
 **Script**
 
 - `Roman <romn/>`_
+- `Thai <thai/>`_: `Pending issues <https://tipitaka.org/known-issues/thai.pdf>`__
+
+    Known issues with Thai font
+
+    1. Two Thai characters need to be modified to have little subscript additions removed to make it look the usual way that the character looks in Thai language.
 
 **See also**
 
