@@ -33,6 +33,14 @@ From `README <https://github.com/VipassanaTech/tipitaka-xml/blob/main/README.md>
 - `മലയാളം (Malayalam) <mlym/>`_
 - `தமிழ் (Tamil) <taml/>`_
 - `తెలుగు (Telugu) <telu/>`_
+- `বাংলা (Bengali) <beng/>`_: `Pending issues <https://tipitaka.org/known-issues/bengali.pdf>`__
+
+    Known issues with Bengali font
+
+    1. tta comes in place of tva.
+    2. both ru and ruu - matra of short and long u comes next to 'r' as in Hindi.
+    3. half nya is coming as full nya. अरञञगतो comes as अरञञगतो
+    4. that '0' of abbreviation, ie. सी॰ सया॰ पी॰...प॰... all o comes as blocks.
 
 **See also**
 
