@@ -28,6 +28,7 @@ From `README <https://github.com/VipassanaTech/tipitaka-xml/blob/main/README.md>
 - `देवनागरी (Devanāgarī) <deva/>`_
 - `(Khmer) អក្ខរក្រមខេមរភាសា <khmr>`_
 - `sɪˈrɪlɪk (Cyrillic) <cyrl/>`_
+- `ગુજરાતી (Gujarati) <gujr/>`_
 
 **See also**
 
