@@ -31,6 +31,7 @@ From `README <https://github.com/VipassanaTech/tipitaka-xml/blob/main/README.md>
 - `ગુજરાતી (Gujarati) <gujr/>`_
 - `ಕನ್ನಡ (Kannaḍa) <knda/>`_
 - `മലയാളം (Malayalam) <mlym/>`_
+- `தமிழ் (Tamil) <taml/>`_
 
 **See also**
 
