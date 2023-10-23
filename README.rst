@@ -42,6 +42,12 @@ From `README <https://github.com/VipassanaTech/tipitaka-xml/blob/main/README.md>
     3. half nya is coming as full nya. अरञञगतो comes as अरञञगतो
     4. that '0' of abbreviation, ie. सी॰ सया॰ पी॰...प॰... all o comes as blocks.
 
+- `ਗੁਰਮੁਖੀ (Gurmukhi) <guru/>`_: `Pending issues <https://tipitaka.org/known-issues/gurmukhi.pdf>`__
+
+    Known issues with Gurmukhi font
+
+    1. None of the vowel matras or the bindi combine correctly with "va".
+
 **See also**
 
 - https://github.com/siongui/data
