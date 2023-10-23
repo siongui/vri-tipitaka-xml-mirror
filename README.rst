@@ -30,6 +30,7 @@ From `README <https://github.com/VipassanaTech/tipitaka-xml/blob/main/README.md>
 - `sɪˈrɪlɪk (Cyrillic) <cyrl/>`_
 - `ગુજરાતી (Gujarati) <gujr/>`_
 - `ಕನ್ನಡ (Kannaḍa) <knda/>`_
+- `മലയാളം (Malayalam) <mlym/>`_
 
 **See also**
 
