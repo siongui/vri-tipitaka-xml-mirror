@@ -29,6 +29,7 @@ From `README <https://github.com/VipassanaTech/tipitaka-xml/blob/main/README.md>
 - `(Khmer) អក្ខរក្រមខេមរភាសា <khmr>`_
 - `sɪˈrɪlɪk (Cyrillic) <cyrl/>`_
 - `ગુજરાતી (Gujarati) <gujr/>`_
+- `ಕನ್ನಡ (Kannaḍa) <knda/>`_
 
 **See also**
 
