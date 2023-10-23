@@ -26,6 +26,7 @@ From `README <https://github.com/VipassanaTech/tipitaka-xml/blob/main/README.md>
     1. The unicode font used -Kaputaunicode - has some limitations, and does not render some characters properly. Please check the word in the Roman script version in case of confusion.
 
 - `देवनागरी (Devanāgarī) <deva/>`_
+- `(Khmer) អក្ខរក្រមខេមរភាសា <khmr>`_
 
 **See also**
 
