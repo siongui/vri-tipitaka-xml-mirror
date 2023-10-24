@@ -48,6 +48,15 @@ From `README <https://github.com/VipassanaTech/tipitaka-xml/blob/main/README.md>
 
     1. None of the vowel matras or the bindi combine correctly with "va".
 
+- `དབུ་ཅན་ (Tibetan) <tibt/>`_: `Pending issues <https://tipitaka.org/known-issues/tibetan.pdf>`__
+
+    Known issues with Tibetan font
+
+    1. The letters ca and ja are being displayed with a curve on the top called “rafar”. Some experts are of the view that this curve is not required. You are free to reach your own conclusion.
+
+    2. The traditional system of writing Pali in Tibetan required Dots in between letters as below – however the fonts are not able to do so.
+
+
 **See also**
 
 - https://github.com/siongui/data
